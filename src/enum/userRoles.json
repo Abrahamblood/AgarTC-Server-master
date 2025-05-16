@@ -6,6 +6,12 @@
         "name": "Abraham"
     },
     {
+    "ip": "*",
+    "password": "clave456",
+    "role": "ADMIN",
+    "name": "Admin Luis"
+    },
+    {
         "ip": "127.0.0.1",
         "password": "moder",
         "role": "MODER",
